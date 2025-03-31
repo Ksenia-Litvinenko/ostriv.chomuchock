@@ -237,12 +237,12 @@
     .principles_p{
         width: 58%;
         height: 30%;
-        font-size: 61%;
+        font-size: 59%;
         color: white;
         display: flex;
         align-items: center;
         font-weight: 500;
-        line-height: 175%;
+        line-height: 110%;
     }
     
     
@@ -331,7 +331,7 @@
     .reviews_h1{
         width: 54%;
         height: 87%;
-        font-size: 150%;
+        font-size: 130%;
     }
     
     button{
